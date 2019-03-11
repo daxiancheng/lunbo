@@ -1,0 +1,20 @@
+.banner_box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.images_box{
+    display: flex;
+    width: 1200px;
+    overflow: hidden;
+}
+.button_box{
+    display: flex;
+    justify-content: center;
+}
+.button_box button{
+    margin: 10px 20px;
+}
+.red{
+    color: red;
+}
